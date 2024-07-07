@@ -18,13 +18,13 @@ The dataset used in this project is the UCI Heart Disease dataset, which include
 **PROJECT STRUCTURE**:
 
 
-*data: Contains the dataset and any data preprocessing scripts.
+**Data**: Contains the dataset and any data preprocessing scripts.
 
-*notebooks: Jupyter notebooks used for data exploration, preprocessing, and modeling.
+*Notebooks: Jupyter notebooks used for data exploration, preprocessing, and modeling.
 
-*src: Source code for the project, including data preprocessing, feature engineering, and model training scripts.
+**Src**: Source code for the project, including data preprocessing, feature engineering, and model training scripts.
 
-*README.md: Project documentation.
+**READM**: Project documentation.
 
 **DATA PREPROCESSING**:
 
